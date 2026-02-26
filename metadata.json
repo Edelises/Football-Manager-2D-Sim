@@ -1,0 +1,5 @@
+{
+  "name": "Football Manager 2D Sim",
+  "description": "A 2D football match simulation engine featuring autonomous player AI, real-time tactics, and match visualization.",
+  "requestFramePermissions": []
+}
